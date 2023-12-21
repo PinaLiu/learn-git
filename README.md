@@ -20,7 +20,7 @@ The objectives are the things we want to learn with this project:
 
 ## Installation ......
 
-<!-- CIAO -->
+CIAO
 
 ### Mac OS/X
 
