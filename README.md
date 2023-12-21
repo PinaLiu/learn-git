@@ -1,4 +1,5 @@
 # Learning git
+
 Modifica su gitHub
 
 This repo is a short guide to learning `git`. Check the [installation](#installation) section before proceeding further.
@@ -18,6 +19,7 @@ The objectives are the things we want to learn with this project:
    1. Add a new file and ...
    1. "Send" the changes to the origin (`push`)
    1. "Check" if something has changed in the origin (`fetch`)
+   1. "diff" to check the differences between files
 
 ## Installation ......
 
