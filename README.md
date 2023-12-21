@@ -18,7 +18,7 @@ The objectives are the things we want to learn with this project:
    1. "Send" the changes to the origin (`push`)
    1. "Check" if something has changed in the origin (`fetch`)
 
-## Installation
+## Installation ......
 
 ### Mac OS/X
 
