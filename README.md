@@ -20,6 +20,8 @@ The objectives are the things we want to learn with this project:
 
 ## Installation ......
 
+<!-- CIAO -->
+
 ### Mac OS/X
 
 The easiest and preferred way is to install the `Xcode Command Line Tools`. From MacOS 10.9 you can:
